@@ -1,0 +1,7 @@
+public class ScorpioClassic extends Scorpio {
+    
+    public void driveCar(){
+        System.out.println("I am driving a Scorpio Classic");
+    }
+
+}
